@@ -1,7 +1,7 @@
 # Guía de Implementación Técnica — Windows Server 2022 Hardening
 **Estándar:** DISA STIG V2R2 | Microsoft Security Baseline 22H2  
 **Versión:** 2.0 — 2025  
-**Clasificación:** Confidencial — Uso Interno
+
 
 ---
 
