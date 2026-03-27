@@ -1,8 +1,7 @@
 # Guía de Implementación Técnica — Windows Server 2022 Hardening
 **Estándar:** DISA STIG V2R2 | Microsoft Security Baseline 22H2  
 **Versión:** 2.0 — 2025  
-Claude Artifact: [[aka.ms/SCT](https://claude.ai/public/artifacts/7264b302-fc47-4f98-9ae5-970a81f0b8d9)]([https://aka.ms/SCT](https://claude.ai/public/artifacts/7264b302-fc47-4f98-9ae5-970a81f0b8d9))
-
+Claude Artifact: [claude.ai/public/artifacts/7264b302-fc47-4f98-9ae5-970a81f0b8d9](https://claude.ai/public/artifacts/7264b302-fc47-4f98-9ae5-970a81f0b8d9)
 
 ---
 
